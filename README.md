@@ -13,6 +13,11 @@ Or using [react-native-ui-xg](https://github.com/xgfe/react-native-ui-xg), our r
 npm install react-native-ui-xg --save
 ```
 
+Need add @react-native-community/datetimepicker
+```bash
+npm install @react-native-community/datetimepicker --save
+```
+
 ## Example
 Check [index.android.js](https://github.com/xgfe/react-native-datepicker/blob/master/index.android.js) in the Example.
 
